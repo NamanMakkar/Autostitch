@@ -36,7 +36,7 @@ The functionality of Panorama can be observed below -
 ## Artifact
 Camera Used - iPhone-13, Focal Length = 5.1mm, CCD width = 9.69mm, Image Width = 4032 pixels. Therefore, the focal length in pixels is calculated as 4032*5.1/9.69 = 2122.1 pixels
 
-![Artifact](artifact_2.jpg)
+![Artifact](artifact.jpg)
 
 ## Extra Credit
 
